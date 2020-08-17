@@ -1,0 +1,156 @@
+[02-Jul-2019 10:52:45 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 10:53:08 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 81
+[02-Jul-2019 10:53:08 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 82
+[02-Jul-2019 10:53:08 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 105
+[02-Jul-2019 10:53:08 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 106
+[02-Jul-2019 10:53:08 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 10:55:32 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:43:58 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:46:11 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:48:12 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:50:07 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:51:53 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:52:12 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:53:10 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:54:50 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 18:55:47 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 19:00:02 America/Sao_Paulo] PHP Warning:  imagepng(../Site/eventos/97815980a9b02146dc763bd244a79e8f.png): failed to open stream: No such file or directory in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 102
+[02-Jul-2019 19:00:03 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[02-Jul-2019 19:07:06 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:11:36 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:12:18 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:14:36 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:16:42 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:18:21 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:19:16 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:20:02 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:20:20 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:21:05 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:21:39 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:22:16 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:22:53 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:31:05 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:31:59 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:32:42 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:33:13 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:34:26 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:34:30 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:35:05 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:35:55 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:36:44 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:37:22 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:38:25 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:38:38 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:39:04 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:39:47 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:40:06 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:40:20 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:40:37 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:41:34 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:44:01 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:44:43 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:47:45 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:48:21 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:48:51 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:49:00 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:49:38 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:52:00 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 19:59:33 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:00:23 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:01:25 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:01:59 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:02:20 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:02:49 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:03:06 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:03:20 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:03:37 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:03:55 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:06:07 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:08:29 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:08:42 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:13:32 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:16:24 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:17:31 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:18:13 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:18:34 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:18:59 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:23:03 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:23:22 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:23:58 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:24:46 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:25:18 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:25:37 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:25:57 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:27:18 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:28:16 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:30:49 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:31:18 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:31:41 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:33:08 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:40:00 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:40:15 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:42:04 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:42:20 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:43:10 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:45:52 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:47:28 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:47:51 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:48:23 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:48:45 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[02-Jul-2019 20:52:32 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 12:51:35 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 12:52:05 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 13:06:58 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 13:07:02 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 13:08:22 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 13:08:50 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 13:09:35 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 13:09:49 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 13:10:52 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 126
+[03-Jul-2019 13:17:38 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 81
+[03-Jul-2019 13:17:38 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 82
+[03-Jul-2019 13:17:38 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 105
+[03-Jul-2019 13:17:38 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 106
+[03-Jul-2019 13:17:38 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[03-Jul-2019 13:18:25 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 125
+[03-Jul-2019 15:05:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 15:06:14 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 15:07:28 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 15:08:13 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 15:08:55 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:11:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:14:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:14:39 America/Sao_Paulo] PHP Fatal error:  Call to undefined function uft8_decode() in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 143
+[03-Jul-2019 16:15:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:15:57 America/Sao_Paulo] PHP Fatal error:  Call to undefined function uft8_decode() in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 143
+[03-Jul-2019 16:21:01 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:21:49 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:22:37 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:23:17 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:24:01 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:24:14 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:24:54 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:26:11 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 16:30:12 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 133
+[03-Jul-2019 18:02:57 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 53
+[03-Jul-2019 18:38:27 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 53
+[03-Jul-2019 18:53:05 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 81
+[03-Jul-2019 18:53:05 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 82
+[03-Jul-2019 18:53:05 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 105
+[03-Jul-2019 18:53:05 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 106
+[10-Jul-2019 15:34:50 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 81
+[10-Jul-2019 15:34:50 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 82
+[10-Jul-2019 15:34:50 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 105
+[10-Jul-2019 15:34:50 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 106
+[10-Jul-2019 16:29:28 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 81
+[10-Jul-2019 16:29:28 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 82
+[10-Jul-2019 16:29:28 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 105
+[10-Jul-2019 16:29:28 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 106
+[10-Jul-2019 17:16:12 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 81
+[10-Jul-2019 17:16:12 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 82
+[10-Jul-2019 17:16:12 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 105
+[10-Jul-2019 17:16:12 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 106
+[10-Jul-2019 18:19:27 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 81
+[10-Jul-2019 18:19:27 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 82
+[10-Jul-2019 18:19:27 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 105
+[10-Jul-2019 18:19:27 America/Sao_Paulo] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/empor274/public_html/justa/Admin/ajax/upload_eventos.php on line 106

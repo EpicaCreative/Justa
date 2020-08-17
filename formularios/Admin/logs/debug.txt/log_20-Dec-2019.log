@@ -1,0 +1,2 @@
+INSERT INTO tb_banners (imagem_low, imagem_high, ativo, nome, pagina, url)VALUES ('obama.jpg', '3d044c088d65e11eac28a96922d2cc67.jpg', on, 'banner_natalino2019', 'credito-justo.html', 'images/banner_natalino.png')
+INSERT INTO tb_banners (imagem_low, imagem_high, ativo, nome, pagina, url)VALUES ('banner_natalino.png', 'obama.jpg', on, 'teste', 'index.html', 'https://google.com')

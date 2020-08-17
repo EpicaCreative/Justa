@@ -1,0 +1,141 @@
+<?php include "cabecalho.php"; $pagina_atual = $_GET['pagina']; if($pagina_atual=="") $pagina_atual = 1;
+	if($_GET['acao']=="excluir"){
+		$Delete = mysqli_query(conexao(),"Delete from eventos where id = ".$_GET['id'])or die(mysqli_error());
+		$Delete_imagens = mysqli_query(conexao(),"Delete from imagem_eventos where vinculo_evento = ".$_GET['id'])or die(mysqli_error());
+		if($Delete and $Delete_imagens){
+			echo "<script>alert('Deletado com sucesso'); window.location='listagem_eventos.php';</script>";
+			}
+	}
+?>
+                <div class="span9" >     
+                
+            <div class="row-fluid pull">
+                    <h2 class="page-header">Eventos Cadastrados&nbsp;<a href="eventos.php" class="btn btn-success">Cadastrar</a></h2>
+                        <form action="" method="get">
+                    <div class="row-fluid pull">
+                    	<div class="span3"> 
+                     		<select name="data_evento" onChange="this.form.submit();">
+                     			<option <?php if($_GET['data_evento']==""){echo "selected"; } ?> value="">Todas as datas</option> 
+                     			<?php $select_col1 = mysqli_query(conexao(),"Select data_evento from eventos WHERE id <> 0 Group by data_evento ASC");
+								while($array_col1 = mysqli_fetch_array($select_col1)){ ?>
+                    			                  	<option <?php if($_GET['data_evento']==$array_col1[0]){echo "selected"; } ?> value="<?php echo $array_col1[0] ?>"><?php echo date('d/m/Y', strtotime($array_col1['data_evento'])); ?></option>
+							<?php } ?>                    			                  	
+                    		</select>                 	
+                    	</div>
+                    	<div class="span3"> 
+                    		<select name="descricao" onChange="this.form.submit();">
+                     			<option <?php if($_GET['descricao']==""){echo "selected"; } ?> value="">Todas as descri&ccedil;&otilde;es</option> 
+                     			<?php $select_col3 = mysqli_query(conexao(),"Select descricao from eventos WHERE id <> 0 Group by descricao ASC");
+								while($array_col3 = mysqli_fetch_array($select_col3)){ ?>
+                    			                  	<option <?php if($_GET['descricao']==utf8_encode($array_col3['descricao'])){echo "selected"; } ?> value="<?php echo utf8_encode($array_col3['descricao']); ?>"><?php echo utf8_encode($array_col3['descricao']); ?></option>
+							<?php } ?>   
+                    		</select> 
+                    	</div>
+                    	<div class="span3"> 
+         	
+                    	</div>                    	                    	
+                    </div>   
+					</form>                        
+                        <div class="block"></div>
+
+  
+<?php 		  	  if($_GET['data_evento'] != ""){$pesquisa_cadastro = " && data_evento = '".$_GET['data_evento']."'";}
+				  if($_GET['descricao']!=""){$pesquisa_descricao = " && descricao = '".utf8_decode($_GET['descricao'])."'";}	  
+				  $inicio = ($pagina_atual - 1) * 25; 			  
+				  $selExistente = mysqli_query(conexao(),"Select * from eventos WHERE id <> 0 ".$pesquisa_cadastro.$pesquisa_descricao." order by data_cadastro Desc LIMIT 25 OFFSET ".$inicio."")or die(mysqli_error());
+			  	  if(mysqli_num_rows($selExistente)>0){
+				  $selTotal = mysqli_query(conexao(),"Select * from eventos WHERE id <> 0 ".$pesquisa_cadastro.$pesquisa_descricao." order by data_cadastro Desc")or die(mysqli_error());
+				?>                          
+                               <div class="block-content collapse in">
+                                <div class="span12">
+  									<table class="table table-hover">
+						              <thead>
+						                <tr>
+						                  
+						                  <th>Descri&ccedil;a&ccedil;&atilde;o</th>
+						                  <th>Data Cadastro</th>
+						                  <th>Data do Evento</th>
+						                  <th>Situa&ccedil;&atilde;o</th>
+						                  <th>Editar</th>
+						                  <th>Excluir</th>
+						                </tr>
+						              </thead>
+						              <tbody>
+
+<?php 			$registros = 0;
+				$total_registros = mysqli_num_rows($selTotal);
+				$total_paginas = ceil($total_registros / 25); 
+				while($array = mysqli_fetch_array($selExistente)){
+				  
+				?>
+						                <tr>
+						                  <td><?php echo utf8_encode($array['descricao']); ?></td>
+						                  <td><?php echo date('d/m/Y', strtotime($array['data_cadastro'])); ?></td>
+						                  <td><?php echo date('d/m/Y', strtotime($array['data_evento'])); ?></td>
+						                  <td><?php if($array['situacao']==1)  echo "Ativo"; else echo "Inativo"; ?></td>
+						                  <td><a href="dados_eventos.php?id=<?php echo $array['id'] ?>" class="btn btn-success">Editar</a></td>
+						                  <td><a href="listagem_eventos.php?id=<?php echo $array['id'] ?>&acao=excluir" class="btn btn-danger">Deletar</a></td>
+						                </tr>
+						                
+<?php 		$registros++;} //Fecha While	  ?>
+				  
+						              </tbody>
+						            </table>
+                                </div>
+                            </div>
+<?php 	  }//Fecha If	  ?>                            
+                        </div>
+                        <!-- /block -->
+									<div class="row">
+										<div class="col-md-6"><span class="quantidade_paginacao">Mostrando
+										<?php echo $registros; ?> registros de
+										<?php echo $total_registros; ?> em <?php echo $total_paginas ?> p&aacute;gina(s). </span>
+										</div>
+										<div class="col-md-6">
+											<nav style="float: right">
+												<ul class="pagination pagination-lg">
+													<li>
+														<a href="?data_evento=<?php echo $_GET['data_evento'] ?>&descricao=<?php echo $_GET['descricao'] ?>&pagina=1" class="paginacao-submit">«</a>
+													</li>
+													<?php 
+										 for($anterior = $pagina_atual - 3; $anterior < $pagina_atual; $anterior++){
+										 if($anterior > 0 && $anterior != $pagina_atual){ ?>
+													<li>
+														<a href="?data_evento=<?php echo $_GET['data_evento'] ?>&descricao=<?php echo $_GET['descricao'] ?>&pagina=<?php echo $anterior ?>" class="paginacao-submit"><?php echo $anterior ?></a>
+													</li>
+													<?php } } ?>
+													<li>
+														<a class="paginacao-submit"><?php echo $pagina_atual ?></a>
+													</li>
+													<?php
+													for ( $proxima = $pagina_atual + 1; $proxima < $pagina_atual + 4; $proxima++ ) {
+														if ( $proxima <= $total_paginas ) {
+															?>
+													<li>
+														<a href="?data_evento=<?php echo $_GET['data_evento'] ?>&descricao=<?php echo $_GET['descricao'] ?>&pagina=<?php echo $proxima ?>" class="paginacao-submit"><?php echo $proxima ?></a>
+													</li>
+													<?php }} ?>
+													<li>
+														<a href="?data_evento=<?php echo $_GET['data_evento'] ?>&descricao=<?php echo $_GET['descricao'] ?>&pagina=<?php echo $total_paginas ?>" class="paginacao-submit">»</a>
+													</li>
+												</ul>
+											</nav>
+										</div>
+									</div>                          
+                    </div>
+             </div>
+
+ 
+
+        <script src="vendors/jquery-1.9.1.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script src="vendors/datatables/js/jquery.dataTables.min.js"></script>
+
+
+        <script src="assets/scripts.js"></script>
+        <script src="assets/DT_bootstrap.js"></script>
+        <script>
+
+    </body>
+
+</html>

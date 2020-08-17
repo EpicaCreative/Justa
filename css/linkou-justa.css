@@ -1,0 +1,1106 @@
+.dropdown-list-2 {
+  background-color: #1d6d8a;
+}
+
+.dropdown-list-2.w--open {
+  box-shadow: 0 1px 6px -3px #000;
+}
+
+.image-5 {
+  height: 6vh;
+  text-align: left;
+}
+
+.dropdown-link-3-copy4 {
+  color: #fff;
+  font-style: normal;
+}
+
+.dropdown-link-3-copy4:hover {
+  color: #2c2c2c;
+}
+
+.dropdown-link-3-copy4.w--current {
+  color: #2c2c2c;
+}
+
+.submit-button-copy3 {
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20px;
+  background-color: #fff;
+  font-family: Montserrat, sans-serif;
+  color: #1d6d8a;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.navbar-copy {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: 100;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  background-color: #fff;
+  box-shadow: 0 7px 20px -20px #000;
+}
+
+.nav-link {
+  color: #000;
+}
+
+.nav-link:hover {
+  color: #1d6d8a;
+  text-decoration: none;
+}
+
+.nav-link.w--current {
+  color: #1d6d8a;
+}
+
+.container-3 {
+  width: 90vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 0px solid #000;
+  border-radius: 10px;
+  background-color: #1d6d8a;
+}
+
+.button:hover {
+  background-color: #00a5e4;
+}
+
+.dropdown-link-4 {
+  color: #fff;
+}
+
+.dropdown-link-4:hover {
+  color: #2c2c2c;
+}
+
+.dropdown-link-4.w--current {
+  color: #fff;
+}
+
+.icon {
+  margin-top: 0px;
+}
+
+.nav-link-copy-copy {
+  padding-top: 0px;
+  color: #000;
+}
+
+.nav-link-copy-copy:hover {
+  color: #1d6d8a;
+  text-decoration: none;
+}
+
+.nav-link-copy-copy.w--current {
+  color: #1d6d8a;
+}
+
+.section {
+  height: 87vh;
+  margin-top: 10vh;
+  padding-top: 10vh;
+  padding-right: 7vw;
+  padding-left: 7vw;
+  background-image: url('../images/gateway-de-pagamento-da-justa.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.columns {
+  padding-top: 0vh;
+  padding-right: 0vw;
+  padding-left: 0vw;
+}
+
+.image-6 {
+  position: relative;
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: block;
+  width: 58vh;
+  margin-left: auto;
+}
+
+.image-7 {
+  width: 25vh;
+}
+
+.heading {
+  margin-bottom: 1vw;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 2vw;
+  line-height: 3vw;
+}
+
+.paragraph {
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 1.15vw;
+  line-height: 2vw;
+  letter-spacing: 0.2vw;
+}
+
+.button-2 {
+  margin-top: 1vw;
+  padding: 2.2vh 2vw;
+  border-radius: 10px;
+  background-color: #fff;
+  font-family: Montserrat, sans-serif;
+  color: #386a91;
+  font-size: 1.2vw;
+  font-weight: 700;
+}
+
+.heading-2 {
+  margin-top: 0px;
+  margin-bottom: 3vw;
+  font-family: Montserrat, sans-serif;
+  color: #076e95;
+  font-size: 2vw;
+  line-height: 3vw;
+  font-weight: 400;
+  text-align: center;
+}
+
+.section-2 {
+  margin-top: 7vw;
+  padding-right: 7vw;
+  padding-left: 7vw;
+}
+
+.image-8 {
+  display: block;
+  width: 35vw;
+  margin-right: auto;
+  margin-left: 0px;
+}
+
+.columns-2 {
+  margin-top: 3vw;
+}
+
+.simple-but-bold {
+  font-family: Montserrat, sans-serif;
+  font-size: 1.1vw;
+  line-height: 2.3vw;
+  font-weight: 700;
+}
+
+.simple {
+  font-family: Montserrat, sans-serif;
+  font-size: 1.1vw;
+  line-height: 2.3vw;
+}
+
+.column {
+  padding-top: 1vw;
+}
+
+.heading-2-mobile {
+  display: none;
+  margin-top: 0px;
+  color: #386a91;
+  font-size: 2vw;
+  line-height: 3vw;
+  font-weight: 400;
+  text-align: center;
+}
+
+.section-3 {
+  height: 16.5vw;
+  background-image: url('../images/gerar-link-sistema-de-pagamento.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.heading-3 {
+  margin-top: 0px;
+  font-family: Montserrat, sans-serif;
+  color: #076e95;
+  font-size: 2vw;
+  line-height: 3vw;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-block {
+  margin-top: 7vw;
+  margin-bottom: 3vw;
+}
+
+.image-9 {
+  width: 100%;
+}
+
+.column-2 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.column-3 {
+  margin-top: 0px;
+  padding-top: 5vh;
+  background-color: rgba(67, 109, 136, 0);
+}
+
+.image-10 {
+  display: none;
+}
+
+.heading-4 {
+  width: 34vw;
+  margin-top: 5vw;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 2vw;
+  line-height: 3vw;
+  text-align: center;
+}
+
+.image-11 {
+  display: block;
+  width: 25vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.section-4 {
+  padding-top: 10vh;
+}
+
+.columns-3 {
+  background-color: #1d6d8a;
+}
+
+.link-block-4 {
+  text-decoration: none;
+}
+
+.image-22 {
+  width: 90px;
+  float: left;
+}
+
+.contato_1 {
+  margin-top: 0vw;
+  margin-left: 30px;
+  padding-top: 2vw;
+  float: left;
+  color: #1d6d8a;
+  font-size: 1vw;
+  line-height: 1.5vw;
+  font-weight: 400;
+  text-align: left;
+  text-transform: none;
+}
+
+.columns-14 {
+  margin-top: 30px;
+}
+
+.paragraph-2 {
+  width: 410px;
+  margin-left: auto;
+  color: #076e95;
+  font-size: 30px;
+  line-height: 50px;
+  text-align: right;
+}
+
+.column-32 {
+  padding-top: 3vh;
+  padding-right: 0vw;
+}
+
+.paragraph-2-copy {
+  width: 20vw;
+  margin-left: auto;
+  color: #076e95;
+  font-size: 24px;
+  line-height: 35px;
+  font-weight: 700;
+  text-align: right;
+}
+
+.section-5 {
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+.image-22-copy {
+  width: 90px;
+  float: left;
+}
+
+.image-22-copy {
+  width: 90px;
+  float: left;
+}
+
+.image-22-copy {
+  width: 90px;
+  float: left;
+}
+
+.image-22-copy {
+  width: 90px;
+  float: left;
+}
+
+.contato_1-copy {
+  margin-top: 0vw;
+  margin-left: 30px;
+  padding-top: 2vw;
+  float: left;
+  color: #1d6d8a;
+  font-size: 1vw;
+  line-height: 1.5vw;
+  font-weight: 400;
+  text-align: left;
+  text-transform: none;
+}
+
+.contato_1-copy {
+  margin-top: 0vw;
+  margin-left: 30px;
+  padding-top: 2vw;
+  float: left;
+  color: #1d6d8a;
+  font-size: 1vw;
+  line-height: 1.5vw;
+  font-weight: 400;
+  text-align: left;
+  text-transform: none;
+}
+
+.contato_1-copy {
+  margin-top: 0vw;
+  margin-left: 30px;
+  padding-top: 2vw;
+  float: left;
+  color: #1d6d8a;
+  font-size: 1vw;
+  line-height: 1.5vw;
+  font-weight: 400;
+  text-align: left;
+  text-transform: none;
+}
+
+.contato_1-copy {
+  margin-top: 0vw;
+  margin-left: 30px;
+  padding-top: 2vw;
+  float: left;
+  color: #1d6d8a;
+  font-size: 1vw;
+  line-height: 1.5vw;
+  font-weight: 400;
+  text-align: left;
+  text-transform: none;
+}
+
+.section-6 {
+  padding-top: 4vw;
+  padding-bottom: 4vw;
+  background-color: #1d6d8a;
+}
+
+.heading-4-copy-copy1 {
+  margin-top: 0px;
+  margin-bottom: 2vw;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+}
+
+.form {
+  width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.text-field {
+  border-radius: 20px;
+}
+
+.submit-button-copy1 {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20px;
+  background-color: #fff;
+  font-family: Montserrat, sans-serif;
+  color: #1d6d8a;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.submit-button-copy1:hover {
+  background-color: #007eae;
+  color: #fff;
+}
+
+.bold-text-4 {
+  font-size: 19px;
+}
+
+.link-4 {
+  color: #006991;
+  text-decoration: none;
+}
+
+.link-3 {
+  color: #000;
+  font-weight: 700;
+}
+
+.image-23 {
+  height: 3vw;
+  text-align: left;
+}
+
+.section-7 {
+  padding-right: 10%;
+  padding-bottom: 3vw;
+  padding-left: 10%;
+  background-color: #cccdd1;
+  text-align: center;
+}
+
+.image-24 {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 27px;
+}
+
+.link-block {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.columns-4 {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 50px;
+  color: #1d6d8a;
+}
+
+.image-25 {
+  width: 80%;
+}
+
+.column-10 {
+  text-align: left;
+}
+
+.paragraph-4-copy1 {
+  margin-bottom: 0vw;
+  color: #006991;
+  font-size: 12px;
+  text-align: left;
+}
+
+.paragraph-4 {
+  margin-bottom: 0vw;
+  padding-right: 50px;
+  padding-left: 50px;
+  color: #006991;
+  text-align: left;
+}
+
+.div-block-4 {
+  position: static;
+  left: 10%;
+  top: auto;
+  right: auto;
+  bottom: 5%;
+  z-index: 100;
+  width: 30%;
+  margin-top: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  clear: none;
+  text-align: center;
+}
+
+.text-block-2 {
+  padding-top: 3vw;
+  padding-bottom: 3vw;
+  color: #1d6d8a;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.image-26 {
+  position: absolute;
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  margin-top: 1vw;
+  margin-right: 1.5vw;
+  margin-left: auto;
+  padding-left: 2vw;
+}
+
+.columns-15 {
+  padding-right: 0px;
+}
+
+.heading-5 {
+  display: none;
+}
+
+.heading-5-copy {
+  display: none;
+}
+
+@media screen and (max-width: 991px) {
+  .nav-menu {
+    background-color: #007eae;
+  }
+  .menu-button {
+    left: 0vh;
+  }
+  .menu-button.w--open {
+    background-color: #007eae;
+  }
+  .brand-7 {
+    padding: 2px;
+  }
+  .brand-7.w--current {
+    padding: 19px;
+  }
+  .section {
+    height: 76vh;
+    margin-top: 8vh;
+    padding-top: 7vh;
+  }
+  .image-6 {
+    position: relative;
+  }
+  .heading {
+    margin-bottom: 2vw;
+    font-size: 2.5vw;
+    line-height: 4vw;
+  }
+  .paragraph {
+    font-size: 1.5vw;
+    line-height: 3vw;
+  }
+  .button-2 {
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+    font-size: 1.7vw;
+  }
+  .column-3 {
+    padding-top: 2vh;
+  }
+  .column-31 {
+    text-align: center;
+  }
+  .image-22 {
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+  }
+  .contato_1 {
+    margin-bottom: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 2vw;
+    line-height: 3vw;
+    text-align: center;
+  }
+  .paragraph-2 {
+    width: 350px;
+    font-size: 25px;
+  }
+  .column-32 {
+    padding-top: 3vh;
+  }
+  .paragraph-2-copy {
+    width: 28vw;
+    font-size: 20px;
+  }
+  .image-22-copy {
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+  }
+  .image-22-copy {
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+  }
+  .image-22-copy {
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+  }
+  .image-22-copy {
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+  }
+  .contato_1-copy {
+    margin-bottom: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 2vw;
+    line-height: 3vw;
+    text-align: center;
+  }
+  .contato_1-copy {
+    margin-bottom: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 2vw;
+    line-height: 3vw;
+    text-align: center;
+  }
+  .contato_1-copy {
+    margin-bottom: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 2vw;
+    line-height: 3vw;
+    text-align: center;
+  }
+  .contato_1-copy {
+    margin-bottom: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 2vw;
+    line-height: 3vw;
+    text-align: center;
+  }
+  .heading-4-copy-copy1 {
+    font-size: 30px;
+  }
+  .section-7 {
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+  .paragraph-4 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .div-block-4 {
+    bottom: 43%;
+  }
+  .image-26 {
+    display: none;
+  }
+  .heading-5 {
+    display: block;
+    width: 100%;
+    font-family: Montserrat, sans-serif;
+    color: #1d6d8a;
+    font-size: 26px;
+    line-height: 37px;
+    font-weight: 300;
+    text-align: right;
+  }
+  .heading-5-copy {
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+    font-family: Montserrat, sans-serif;
+    color: #1d6d8a;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 300;
+    text-align: right;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .image-5 {
+    height: 7vw;
+  }
+  .menu-button {
+    left: 0vh;
+  }
+  .section {
+    height: 100vh;
+    margin-top: 22vh;
+    padding-top: 8vh;
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .image-7 {
+    width: 20vh;
+  }
+  .heading {
+    margin-top: 10px;
+    margin-bottom: 1vw;
+    font-size: 2vw;
+    line-height: 3vw;
+  }
+  .paragraph {
+    font-size: 1.2vw;
+    line-height: 2vw;
+  }
+  .button-2 {
+    margin-top: 0.6vw;
+    padding-right: 3vw;
+    padding-left: 3vw;
+    font-size: 1.4vw;
+  }
+  .columns-2 {
+    margin-top: 5vw;
+  }
+  .column {
+    padding-top: 0vw;
+  }
+  .column-3 {
+    height: 300px;
+    padding-top: 4vh;
+  }
+  .heading-4 {
+    width: 85vw;
+    font-family: Montserrat, sans-serif;
+    font-size: 5vw;
+    line-height: 8vw;
+  }
+  .image-11 {
+    width: 45vw;
+  }
+  .image-22 {
+    display: block;
+  }
+  .contato_1 {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+  .paragraph-2 {
+    width: 260px;
+  }
+  .column-32 {
+    padding-top: 0vh;
+  }
+  .image-22-copy {
+    display: block;
+  }
+  .image-22-copy {
+    display: block;
+  }
+  .image-22-copy {
+    display: block;
+  }
+  .image-22-copy {
+    display: block;
+  }
+  .contato_1-copy {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+  .contato_1-copy {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+  .contato_1-copy {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+  .contato_1-copy {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+  .section-6 {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .heading-4-copy-copy1 {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .form {
+    width: 90%;
+  }
+  .submit-button-copy1 {
+    width: 70%;
+    padding-right: 15px;
+  }
+  .image-23 {
+    height: 7vw;
+  }
+  .link-block {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  .image-25 {
+    width: 70%;
+  }
+  .div-block-4 {
+    left: 3%;
+    bottom: 63%;
+  }
+  .heading-5 {
+    line-height: 42px;
+  }
+  .heading-5-copy {
+    font-size: 24px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .nav-menu {
+    display: none;
+  }
+  .navbar-copy {
+    margin-left: -3px;
+  }
+  .nav-link:hover {
+    color: #fff;
+  }
+  .nav-link.w--current {
+    color: #fff;
+  }
+  .menu-button {
+    position: relative;
+    left: 0vh;
+    z-index: 100;
+    float: right;
+    clear: none;
+  }
+  .icon {
+    padding-top: 20px;
+  }
+  .nav-link-copy-copy {
+    padding-top: 20px;
+  }
+  .nav-link-copy-copy:hover {
+    color: #fff;
+  }
+  .brand-7 {
+    padding: 19px;
+  }
+  .section {
+    margin-top: 7vh;
+    padding-top: 8vh;
+  }
+  .image-6 {
+    position: static;
+    display: block;
+    margin-top: 5vw;
+    margin-right: -8vw;
+    margin-left: auto;
+  }
+  .image-7 {
+    margin-bottom: 4vw;
+  }
+  .heading {
+    margin-bottom: 2vw;
+    font-size: 6vw;
+    line-height: 9vw;
+  }
+  .paragraph {
+    font-size: 3.5vw;
+    line-height: 6vw;
+  }
+  .button-2 {
+    padding-right: 5vw;
+    padding-left: 5vw;
+    font-size: 4vw;
+  }
+  .heading-2 {
+    display: none;
+    font-size: 6vw;
+    line-height: 8vw;
+  }
+  .image-8 {
+    width: 100%;
+    margin-bottom: 5vw;
+  }
+  .simple-but-bold {
+    font-size: 3.5vw;
+    line-height: 6vw;
+  }
+  .simple {
+    font-size: 3.5vw;
+    line-height: 6vw;
+  }
+  .heading-2-mobile {
+    display: block;
+    font-size: 6vw;
+    line-height: 8vw;
+  }
+  .section-3 {
+    height: 900px;
+    background-image: url('../images/gerar-link-sistema-de-pagamentos.png');
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .heading-3 {
+    display: block;
+    font-size: 6vw;
+    line-height: 8vw;
+  }
+  .column-3 {
+    height: 250px;
+    padding-top: 7vh;
+  }
+  .image-10 {
+    position: relative;
+    left: 0%;
+    top: auto;
+    right: auto;
+    bottom: 0%;
+    display: block;
+    width: 100%;
+    margin-top: 5vw;
+    margin-right: -8vw;
+    margin-left: auto;
+  }
+  .heading-4 {
+    width: 90%;
+    font-size: 5vw;
+    line-height: 8vw;
+  }
+  .image-11 {
+    width: 60vw;
+  }
+  .image-22 {
+    display: block;
+    text-align: left;
+  }
+  .contato_1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    font-size: 4vw;
+    line-height: 5vw;
+    text-align: center;
+  }
+  .paragraph-2 {
+    width: 100%;
+    line-height: 45px;
+    text-align: center;
+  }
+  .column-32 {
+    padding-left: 0px;
+  }
+  .paragraph-2-copy {
+    width: 100%;
+    text-align: center;
+  }
+  .section-5 {
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .column-33 {
+    margin-top: 4vw;
+  }
+  .image-22-copy {
+    display: block;
+    text-align: left;
+  }
+  .image-22-copy {
+    display: block;
+    text-align: left;
+  }
+  .image-22-copy {
+    display: block;
+    text-align: left;
+  }
+  .image-22-copy {
+    display: block;
+    text-align: left;
+  }
+  .contato_1-copy {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    font-size: 4vw;
+    line-height: 5vw;
+    text-align: center;
+  }
+  .contato_1-copy {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    font-size: 4vw;
+    line-height: 5vw;
+    text-align: center;
+  }
+  .contato_1-copy {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    font-size: 4vw;
+    line-height: 5vw;
+    text-align: center;
+  }
+  .contato_1-copy {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    font-size: 4vw;
+    line-height: 5vw;
+    text-align: center;
+  }
+  .section-6 {
+    padding-bottom: 10vw;
+  }
+  .heading-4-copy-copy1 {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .submit-button-copy1 {
+    width: 80%;
+  }
+  .column-10 {
+    padding-top: 26px;
+    padding-bottom: 26px;
+  }
+  .div-block-4 {
+    bottom: 8%;
+    z-index: 90;
+    width: 100%;
+    margin-bottom: 3vh;
+  }
+  .text-block-2 {
+    padding-top: 10vw;
+    padding-bottom: 10vw;
+    line-height: 28px;
+  }
+  .heading-5 {
+    text-align: center;
+  }
+  .heading-5-copy {
+    margin-bottom: 5vh;
+    text-align: center;
+  }
+}

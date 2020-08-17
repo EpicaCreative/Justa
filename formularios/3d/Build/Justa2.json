@@ -1,0 +1,17 @@
+{
+"companyName": "Justa",
+"productName": "MaquinaCartao",
+"productVersion": "0.1",
+"dataUrl": "Justa2.data.unityweb",
+"wasmCodeUrl": "Justa2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Justa2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Justa2.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f1"
+}
